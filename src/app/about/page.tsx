@@ -14,7 +14,7 @@ export default function AboutUs() {
         {/* About Content */}
         <div className="mt-5 max-w-3xl text-center mx-auto">
           <p className="text-lg md:text-xl text-gray-800 dark:text-neutral-200 mb-8">
-            Olive is a passionate software developer dedicated to solving community challenges through innovative technology solutions. With a diverse skill set spanning front-end and back-end development, Olive creates robust and user-friendly applications that make a difference.
+            SAI SID is a passionate software developer dedicated to solving community challenges through innovative technology solutions. With a diverse skill set spanning front-end and back-end development, Olive creates robust and user-friendly applications that make a difference.
           </p>
         </div>
 

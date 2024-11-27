@@ -28,10 +28,10 @@ export default function Home() {
         {/* Title */}
         <div className="mt-5 max-w-2xl text-center mx-auto">
           <h1 className="block font-bold text-gray-800 text-3xl sm:text-4xl md:text-5xl lg:text-6xl dark:text-neutral-200">
-            Hi, I am Olive Bishop
+            Hi, I am Sai Siddharth
             <span className="bg-clip-text text-2xl sm:text-3xl md:text-4xl lg:text-5xl bg-gradient-to-tl from-[#606060] to-[#7f7f7f] text-transparent">
               <br />
-              Full Stack Software Developer
+              Aerospace Engineer
             </span>
           </h1>
         </div>
